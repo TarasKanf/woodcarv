@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Generate locale file for Ukranian lenguage 
 Run `ng xi18n --output-path src/locale --i18n-format=xlf --out-file source.uk.xlf --i18n-locale uk`
+
+## Build into docs for deploy to github
+ng build --prod --output-path docs --base-href woodcarv
