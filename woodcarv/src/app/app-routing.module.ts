@@ -17,6 +17,8 @@ const routes: Routes = [
   { path: 'contact', component: ContactPageComponent },
   { path: 'services', component: ServicesPageComponent },
   { path: 'privacy-policy', component: PrivacyPolicyComponent },
+  // github fix
+  { path: 'woodcarv', component: HomeComponent },
 ];
 
 @NgModule({
