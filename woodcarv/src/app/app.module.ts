@@ -10,6 +10,14 @@ import localeUkExtra from '@angular/common/locales/extra/uk';
 import { MainLogoComponent } from './main-logo/main-logo.component';
 import { MenuComponent } from './menu/menu.component';
 import { SiteHeaderComponent } from './site-header/site-header.component';
+import { HomeComponent } from './home/home.component';
+import { FooterNavigationComponent } from './footer-navigation/footer-navigation.component';
+import { AboutUsComponent } from './about-us/about-us.component';
+import { PortfolioComponent } from './portfolio/portfolio.component';
+import { ShopComponent } from './shop/shop.component';
+import { ContactPageComponent } from './contact-page/contact-page.component';
+import { ServicesPageComponent } from './services-page/services-page.component';
+import { PrivacyPolicyComponent } from './privacy-policy/privacy-policy.component';
 
 registerLocaleData(localeUk, 'uk', localeUkExtra);
 
@@ -18,7 +26,15 @@ registerLocaleData(localeUk, 'uk', localeUkExtra);
     AppComponent,
     MainLogoComponent,
     MenuComponent,
-    SiteHeaderComponent
+    SiteHeaderComponent,
+    HomeComponent,
+    FooterNavigationComponent,
+    AboutUsComponent,
+    PortfolioComponent,
+    ShopComponent,
+    ContactPageComponent,
+    ServicesPageComponent,
+    PrivacyPolicyComponent
   ],
   imports: [
     BrowserModule,
