@@ -1,0 +1,2 @@
+1) in the end "." is important! It says to use current working directory and default "Dockerfile" name.
+docker build --tag="friendlyhello" .
