@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  woodbe3d:
+    image: woodbe3d
+    build:
+      context: ./woodbe3d
+      dockerfile: Dockerfile
