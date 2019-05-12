@@ -56,6 +56,19 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "uk": {
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "outputPath": "dist/woodcarv-uk/",
+              "baseHref": "/uk/",
+              "i18nFile": "src/locale/source.uk.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "uk"
             }
           }
         },
@@ -67,6 +80,9 @@
           "configurations": {
             "production": {
               "browserTarget": "woodcarv:build:production"
+            },
+            "uk": {
+              "browserTarget": "woodcarv:build:uk"
             }
           }
         },

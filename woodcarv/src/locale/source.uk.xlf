@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="uk" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <target state="new">Головна</target>
+      </trans-unit>
+      <trans-unit id="72f34b3ac267bb423e47c3bed43123f99239d1da" datatype="html">
+        <source>Shop</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shop/shop.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Каталог моделей</target>
+      </trans-unit>
+      <trans-unit id="323af13292ecc714ab3848b9dff48f923893be32" datatype="html">
+        <source>Portfolio</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <target state="new">Портфоліо</target>
+      </trans-unit>
+      <trans-unit id="419d940613972cc3fae9c8ea0a4306dbf80616e5" datatype="html">
+        <source>Services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <target state="new">Послуги</target>
+      </trans-unit>
+      <trans-unit id="847171f94c5e932a67df0c3b4d57e4e10d844b52" datatype="html">
+        <source>About Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/about-us/about-us.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Про нас</target>
+      </trans-unit>
+      <trans-unit id="34746fb1c7f3d2194d99652bdff89e6e14c9c4f4" datatype="html">
+        <source>Contact</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/menu/menu.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <target state="new">Контакти</target>
+      </trans-unit>
+      <trans-unit id="4cf65005321cda09098fe6c476aff1acdff65d43" datatype="html">
+        <source>3D modeling and wood carving company</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Компанія 3D моделювання і різьби</target>
+      </trans-unit>
+      <trans-unit id="53765c3dad6f8221f07bc5a1f39a19d2e3438249" datatype="html">
+        <source>Experience true beauty of wood</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Відчуй справжню красу дерева</target>
+      </trans-unit>
+      <trans-unit id="5396ef7240d575cb983503534530b750c8b8da04" datatype="html">
+        <source>Gallery of created products and models.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <target state="new">Контакти</target>
+      </trans-unit>
+      <trans-unit id="8d85f88baddf87136df4ca04220e3a2773e0b9a6" datatype="html">
+        <source>3D Models for Sale</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <target state="new">3D моделі для продажу</target>
+      </trans-unit>
+      <trans-unit id="8c061f29f2271449e58f40cd866881926b9216d1" datatype="html">
+        <source>Range of models that you can buy license for or ask us to carve or print them.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <target state="new">Різьби</target>
+      </trans-unit>
+      <trans-unit id="a0fdbb96dd88f013acf48e37fcbab25550b30d5c" datatype="html">
+        <source>Navigation</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <target state="new">Посилання</target>
+      </trans-unit>
+      <trans-unit id="02e9e69ddcbf93de9fd38bc4d0f312142658610d" datatype="html">
+        <source>Contact Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Контакти</target>
+      </trans-unit>
+      <trans-unit id="b8d10cd55fae4e4ad4f87d28e18251694f159bf7" datatype="html">
+        <source>Privacy Policy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/privacy-policy/privacy-policy.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Політика конфіденційності</target>
+      </trans-unit>
+      <trans-unit id="c77f17034edb2b0fdc9a52e0bf0836177b05c5b8" datatype="html">
+        <source>Recent News</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <target state="new">Останні новини</target>
+      </trans-unit>
+      <trans-unit id="7371a1fd2da4a67a285dca20fa05b57e0e494896" datatype="html">
+        <source>All rights reserved</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/footer-navigation/footer-navigation.component.html</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+        <target state="new">Всі права захищені</target>
+      </trans-unit>
+      <trans-unit id="f37573159ad6676f25aca9de4c20e402dfc725f8" datatype="html">
+        <source>Know Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/about-us/about-us.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Про нас</target>
+      </trans-unit>
+      <trans-unit id="8962fbd4c2bbcfcedf78802b3cfb6288d4136454" datatype="html">
+        <source>Our Awesome</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Наші класні</target>
+      </trans-unit>
+      <trans-unit id="d2a7deb7096cada2c3177157652680fe7e6de0ed" datatype="html">
+        <source>Проекти</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Проекти</target>
+      </trans-unit>
+      <trans-unit id="4d7677770beca18f386463f06b42c4ee8a9f82ae" datatype="html">
+        <source>Our Awesome 3D Models</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/shop/shop.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Наші 3D моделі</target>
+      </trans-unit>
+      <trans-unit id="610f20d242b74c790da8ff70aa23ce523c93c1fe" datatype="html">
+        <source>Get In Touch</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Як з нами зв'язатись?</target>
+      </trans-unit>
+      <trans-unit id="8b13c01a8de3bf27e68d8301fa66b5346e4d73b4" datatype="html">
+        <source>Say  <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Hello<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <target state="new">Привіт!</target>
+      </trans-unit>
+      <trans-unit id="484b0e541230d60ddb5fbd771a34a5c8d90e7a57" datatype="html">
+        <source>Full Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <target state="new">Повне ім'я</target>
+      </trans-unit>
+      <trans-unit id="244aae9346da82b0922506c2d2581373a15641cc" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <target state="new">Електронна пошта</target>
+      </trans-unit>
+      <trans-unit id="ccac601bf473fa28c9ac46794f1cd40542f74347" datatype="html">
+        <source>Message</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/contact-page/contact-page.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <target state="new">Повідомлення</target>
+      </trans-unit>
+      <trans-unit id="4c3c8ec998f7cbbb1d3cc90c8bcbc264d1bee572" datatype="html">
+        <source>Our Awesome Services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/services-page/services-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <target state="new">Наші</target>
+      </trans-unit>
+      <trans-unit id="fefbc52c0f3a46c9c074087a543e09875b3a6e13" datatype="html">
+        <source>Our Services</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/services-page/services-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <target state="new">Послуги</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

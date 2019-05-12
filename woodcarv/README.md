@@ -27,7 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Generate locale file for Ukranian lenguage 
-Run `ng xi18n --output-path src/locale --i18n-format=xlf --out-file source.uk.xlf --i18n-locale uk`
+Run `ng xi18n --output-path locale --i18n-format=xlf --out-file source.uk.xlf --i18n-locale uk`
 
 ## Build into docs for deploy to github
-ng build --prod --output-path docs --base-href woodcarv
+ng build --prod --output-path dist --base-href woodcarv
+ng build --configuration=uk
+
+ng serve --configuration=uk
