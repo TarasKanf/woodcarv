@@ -64,7 +64,7 @@
               "extractCss": true,
               "namedChunks": false,
               "aot": true,
-              "outputPath": "dist/woodcarv-uk/",
+              "outputPath": "dist/uk/",
               "baseHref": "/uk/",
               "i18nFile": "src/locale/source.uk.xlf",
               "i18nFormat": "xlf",

@@ -7,7 +7,10 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "build-locale:en": "ng build --prod --output-path=dist/en --baseHref /en/",
+    "build-locale:uk": "ng build --prod --i18n-locale uk --i18n-format xlf --i18n-file src/locale/source.uk.xlf --output-path=dist/uk --baseHref /uk/",
+    "build-locale": "npm run build-locale:en && npm run build-locale:uk"
   },
   "private": true,
   "dependencies": {

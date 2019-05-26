@@ -1,2 +1,9 @@
 1) in the end "." is important! It says to use current working directory and default "Dockerfile" name.
-docker build --tag="friendlyhello" .
+docker build --tag="woodcarv" .
+
+or 
+
+docker build --tag="woodcarv:v0.0.1" .
+
+2) To crate container and run it
+docker run -p 43501:80 woodcarv
