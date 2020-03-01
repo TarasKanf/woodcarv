@@ -18,6 +18,16 @@
               <span class="icon-envelope mr-2"></span>
               <span class="d-none d-md-inline-block">+380987437489</span>
             </a>
+            <mat-form-field>
+              <mat-select [(value)]="currentLang">
+                <mat-option [value]="language.code" *ngFor="let language of languageList" class="lang-option">{{language.label}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+            <!-- <select [(value)]="currentLang" class="lang-selector ml-auto">
+              <option [ngValue]="language" *ngFor="let language of languageList" class="lang-option">
+                {{language.label}}
+              </option>
+            </select> -->
           </div>
         </div>
       </div>

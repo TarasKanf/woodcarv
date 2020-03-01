@@ -1,6 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -18,6 +19,7 @@ import { ShopComponent } from './shop/shop.component';
 import { ContactPageComponent } from './contact-page/contact-page.component';
 import { ServicesPageComponent } from './services-page/services-page.component';
 import { PrivacyPolicyComponent } from './privacy-policy/privacy-policy.component';
+import { MaterialModule } from './material-module';
 
 registerLocaleData(localeUk, 'uk', localeUkExtra);
 
@@ -34,12 +36,14 @@ registerLocaleData(localeUk, 'uk', localeUkExtra);
     ShopComponent,
     ContactPageComponent,
     ServicesPageComponent,
-    PrivacyPolicyComponent
+    PrivacyPolicyComponent,
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     FormsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]
