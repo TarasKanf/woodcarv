@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { stripSummaryForJitFileSuffix } from '@angular/compiler/src/aot/util';
 
 @Component({
   selector: 'app-menu',
