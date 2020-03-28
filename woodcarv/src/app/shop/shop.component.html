@@ -16,14 +16,13 @@
 <!--Repeated block-->
       <div class="col-lg-4 col-md-6 mb-4 project-entry" *ngFor="let shopElement of shopElements | async">
         <a href="#" class="d-block figure">
-          <img src="{{ shopElement.image_src }}" alt="Image" class="img-fluid">
+          <img [src]="shopElement.image_src" alt="Image" class="img-fluid">
         </a>
-        <h3 class="mb-0" ><a href="#">{{ shopElement.name }} </a></h3>
-        <span class="text-muted" >  {{ shopElement.description }}</span>
+        <h3 class="mb-0" ><a href="#">{{shopElement.name}} </a></h3>
+        <span class="text-muted">{{shopElement.description}}</span>
       </div>
-<!--End of the repeated block-->
     </div>
   </div>
 </div>
-<!--End of the page content-->
+
 
