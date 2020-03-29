@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Project Name 1",
+      "description": "Design",
+      "image_src" : "assets/images/img_1.jpg"
+    },
+    {
+      "name": "Project Name 2",
+      "description": "Architecture",
+      "image_src" : "assets/images/img_2.jpg"
+    },
+    {
+      "name": "Project Name 3",
+      "description": "Urban",
+      "image_src" : "assets/images/img_3.jpg"
+    },
+    {
+      "name": "Project Name 4",
+      "description": "Interior",
+      "image_src" : "assets/images/img_4.jpg"
+    },   
+    {
+      "name": "Project Name 5",
+      "description": "City",
+      "image_src" : "assets/images/img_5.jpg"
+    },
+    {
+      "name": "Project Name 6",
+      "description": "Perfomance",
+      "image_src" : "assets/images/img_1.jpg"
+    },
+    {
+      "name": "Project Name 7",
+      "description": "Look",
+      "image_src" : "assets/images/img_2.jpg"
+    },
+    {
+      "name": "Project Name 8",
+      "description": "Design",
+      "image_src" : "assets/images/img_3.jpg"
+    },
+    {
+      "name": "Project Name 9",
+      "description": "Villa",
+      "image_src" : "assets/images/img_4.jpg"
+    },
+    {
+      "name": "Project Name 10",
+      "description": "Awesome",
+      "image_src" : "assets/images/img_5.jpg"
+    },
+    {
+      "name": "Project Name 11",
+      "description": "Desire",
+      "image_src" : "assets/images/img_1.jpg"
+    },
+    {
+      "name": "Project Name 12",
+      "description": "Luxury",
+      "image_src" : "assets/images/img_2.jpg"
+    },
+    {
+      "name": "Project Name 13",
+      "description": "Testamonials",
+      "image_src" : "assets/images/img_3.jpg"
+    },
+    {
+      "name": "Project Name 14",
+      "description": "Solution",
+      "image_src" : "assets/images/img_4.jpg"
+    },
+    {
+      "name": "Project Name 15",
+      "description": "Perfectionist",
+      "image_src" : "assets/images/img_5.jpg"
+    },
+    {
+      "name": "Project Name 16",
+      "description": "Luxury",
+      "image_src" : "assets/images/img_1.jpg"
+    },
+    {
+      "name": "Project Name 17",
+      "description": "Maestro",
+      "image_src" : "assets/images/img_2.jpg"
+    },
+    {
+      "name": "Project Name 18",
+      "description": "Loft",
+      "image_src" : "assets/images/img_3.jpg"
+    },
+    {
+      "name": "Project Name 19",
+      "description": "Soft",
+      "image_src" : "assets/images/img_4.jpg"
+    },
+    {
+      "name": "Project Name 20",
+      "description": "Blue",
+      "image_src" : "assets/images/img_5.jpg"
+    }
+  ]

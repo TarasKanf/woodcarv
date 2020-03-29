@@ -152,5 +152,8 @@
       }
     }
   },
-  "defaultProject": "woodcarv"
+  "defaultProject": "woodcarv",
+  "cli": {
+    "analytics": "70e0d871-70ed-4450-aa51-253c235042d5"
+  }
 }
