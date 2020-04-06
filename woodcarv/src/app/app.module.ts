@@ -20,7 +20,9 @@ import { ContactPageComponent } from './contact-page/contact-page.component';
 import { ServicesPageComponent } from './services-page/services-page.component';
 import { PrivacyPolicyComponent } from './privacy-policy/privacy-policy.component';
 import { MaterialModule } from './material-module';
-import { HttpClientModule } from '@angular/common/http';
+import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
+import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 registerLocaleData(localeUk, 'uk', localeUkExtra);
 
@@ -45,9 +47,20 @@ registerLocaleData(localeUk, 'uk', localeUkExtra);
     BrowserAnimationsModule,
     FormsModule,
     AppRoutingModule,
-    MaterialModule
+    MaterialModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: httpTranslateLoader,
+        deps: [HttpClient]
+      }
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+// AOT compilation support
+export function httpTranslateLoader(http: HttpClient) {
+  return new TranslateHttpLoader(http);
+}
